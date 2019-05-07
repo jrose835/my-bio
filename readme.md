@@ -2,7 +2,7 @@
 
 ### About Me
 
-I recently moved to Atlanta, GA from Philadelphia in order to start a doctorate program in Genetics at Emory.
+I moved to Atlanta, GA from Philadelphia in the summer of 2019 in order to start a doctorate program in Genetics at Emory.
 Prior to this I have spent the last several  years working in the pharmaceutical industry in the monoclonal antibody manufacturing process development field.
 In the meantime I've played around here and there with programming and open source as a hobby, especially when it comes to intersections with biology. 
 
