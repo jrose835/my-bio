@@ -1,28 +1,25 @@
-# This is a large heading
+# Jim Rose
 
-## This is a smaller heading
+### About Me
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poetâ€™s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I recently moved to Atlanta, GA from Philadelphia in order to start a doctorate program in Genetics at Emory.
+Prior to this I have spent the last several  years working in the pharmaceutical industry in the monoclonal antibody manufacturing process development field.
+In the meantime I've played around here and there with programming and open source as a hobby, especially when it comes to intersections with biology. 
 
-- This is
-- an unordered
-- list
+### General  Interests
 
-1. This is
-2. an ordered
-3. list
+1. Genetics
+2. Science fiction
+3. Craft Beer
+4. Open source
 
-Here is `some code` in the middle of a sentence.
+### Scientific Interests 
+I plan to spend my time in graduate school researching the genetics of complex traits or diseases, particularly in human genetics. I would like to gear my studies towards learning and applying computational or bioinformatic tools to big questions around how complex traits are inherited, how they evolve, and how we can learn to better understand and predict heritability/penetrance.
 
-```
-This is
-a block
-of code
-```
+- Human Genetics
+- Prediction science
+- Bioinformatics
+- Pharmaceuticals/Translational Research
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Social Media
+[Twitter @jimrose835](https://twitter.com/jimrose835)
